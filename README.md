@@ -3,4 +3,6 @@
 Estoy subiendo mis practicas y proyectos de la materia de bases de datos con el Maestro Moran Flores Miguel Angel 
 Estoy aprendiendo a usar Github 
 
-![Imagen de base de datos](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUTEhMWFRUXGBcYGBgVGB0ZGBcbFxcYFhYdFx0dHygiHRolHhcfITEhJSktLi4uFx8zODMsNygtLisBCgoKDg0OGxAQGy0mICUtLS0tLS8tLS8tLS0tLy0tLS0tLS01LS0tLS0tLy0tLS0tLS0rLS0tLS0tLS0tLS0tLf/AABEIALoBDwMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAQIDBAYAB//EAE8QAAIBAgQDBQQGBgUHDAMAAAECEQMhAAQSMQUiQQYTMlFhI3GBkRQzQlJyoVNigrGywRUkkqLRBxY0g9Lh8BclNUNUY3OTs8LT8URF4//EABkBAAMBAQEAAAAAAAAAAAAAAAECAwAEBf/EADMRAAIBAgIGCQMFAQEAAAAAAAABAgMRITEEEkFRkfATFDJhcYGhscEiUtEVM0KS8QVi/9QBDwGA/9k=)
+
+
+![Visual Studio Call Graph ](https://cdn.corporatefinanceinstitute.com/assets/database-1024x703.jpeg)
